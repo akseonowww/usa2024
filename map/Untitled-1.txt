@@ -1,0 +1,266 @@
+data-title="Москва"
+data-code="RU-MOW"
+
+data-title="Санкт-Петербург"
+data-code="RU-SPE"
+
+data-title="Ненецкий АО"
+data-code="RU-NEN"
+
+data-title="Ярославская область"
+data-code="RU-YAR"
+
+data-title="Челябинская область"
+data-code="RU-CHE"
+
+data-title="Ульяновская область"
+data-code="RU-ULY"
+
+data-title="Тюменская область"
+data-code="RU-TYU"
+
+data-title="Тульская область"
+data-code="RU-TUL"
+
+data-title="Свердловская область"
+data-code="RU-SVE"
+
+data-title="Рязанская область"
+data-code="RU-RYA"
+
+data-title="Орловская область"
+data-code="RU-ORL"
+
+data-title="Омская область"
+data-code="RU-OMS"
+
+data-title="Новгородская область"
+data-code="RU-NGR"
+
+data-title="Липецкая область"
+data-code="RU-LIP"
+
+data-title="Курская область"
+data-code="RU-KRS"
+
+data-title="Курганская область"
+data-code="RU-KGN"
+
+data-title="Калининградская область"
+data-code="RU-KGD"
+
+data-title="Ивановская область"
+data-code="RU-IVA"
+
+data-title="Брянская область"
+data-code="RU-BRY"
+
+data-title="Астраханская область"
+data-code="RU-AST"
+
+data-title="Хабаровский край"
+data-code="RU-KHA"
+
+data-title="Чеченская Республика"
+data-code="RU-CE"
+
+data-title="Удмуртская Республика"
+data-code="RU-UD"
+
+data-title="Республика Северная Осетия — Алания"
+data-code="RU-SE"
+
+data-title="Республика Мордовия"
+data-code="RU-MO"
+
+data-title="Республика Карелия"
+data-code="RU-KR"
+
+data-title="Республика Калмыкия"
+data-code="RU-KL"
+
+data-title="Республика Ингушетия"
+data-code="RU-IN"
+
+data-title="Республика Алтай"
+data-code="RU-AL"
+
+data-title="Республика Башкортостан"
+data-code="RU-BA"
+
+data-title="Республика Адыгея"
+data-code="RU-AD"
+
+data-title="Республика Крым"
+data-code="RU-CR"
+
+data-title="Севастополь"
+data-code="RU-SEV"
+
+data-title="Республика Коми"
+data-code="RU-KO"
+
+data-title="Кировская область"
+data-code="RU-KIR"
+
+data-title="Пензенская область"
+data-code="RU-PNZ"
+
+data-title="Тамбовская область"
+data-code="RU-TAM"
+
+data-title="Мурманская область"
+data-code="RU-MUR"
+
+data-title="Ленинградская область"
+data-code="RU-LEN"
+
+data-title="Вологодская область"
+data-code="RU-VLG"
+
+data-title="Костромская область"
+data-code="RU-KOS"
+
+data-title="Псковская область"
+data-code="RU-PSK"
+
+data-title="Архангельская область"
+data-code="RU-ARK"
+
+data-title="Ямало-Ненецкий АО"
+data-code="RU-YAN"
+
+data-title="Чукотский АО"
+data-code="RU-CHU"
+
+data-title="Еврейская автономная область"
+data-code="RU-YEV"
+
+data-title="Республика Тыва"
+data-code="RU-TY"
+
+data-title="Сахалинская область"
+data-code="RU-SAK"
+
+data-title="Амурская область"
+data-code="RU-AMU"
+
+data-title="Республика Бурятия"
+data-code="RU-BU"
+
+data-title="Республика Хакасия"
+data-code="RU-KK"
+
+data-title="Кемеровская область"
+data-code="RU-KEM"
+
+data-title="Новосибирская область"
+data-code="RU-NVS"
+
+data-title="Алтайский край"
+data-code="RU-ALT"
+
+data-title="Республика Дагестан"
+data-code="RU-DA"
+
+data-title="Ставропольский край"
+data-code="RU-STA"
+
+data-title="Кабардино-Балкарская Республика "
+data-code="RU-KB"
+
+data-title="Карачаево-Черкесская Республика"
+data-code="RU-KC"
+
+data-title="Краснодарский край"
+data-code="RU-KDA"
+
+data-title="Ростовская область"
+data-code="RU-ROS"
+
+data-title="Самарская область"
+data-code="RU-SAM"
+
+data-title="Республика Татарстан"
+data-code="RU-TA"
+
+data-title="Республика Марий Эл"
+data-code="RU-ME"
+
+data-title="Чувашская Республика"
+data-code="RU-CU"
+
+data-title="Нижегородская область"
+data-code="RU-NIZ"
+
+data-title="Владимирская область"
+data-code="RU-VLA"
+
+data-title="Московская область"
+data-code="RU-MOS"
+
+data-title="Калужская область"
+data-code="RU-KLU"
+
+data-title="Белгородская область"
+data-code="RU-BEL"
+
+data-title="Забайкальский край"
+data-code="RU-ZAB"
+
+data-title="Приморский край"
+data-code="RU-PRI"
+
+data-title="Камчатский край"
+data-code="RU-KAM"
+
+data-title="Магаданская область"
+data-code="RU-MAG"
+
+data-title="Республика Саха (Якутия)"
+data-code="RU-SA"
+
+data-title="Красноярский край"
+data-code="RU-KYA"
+
+data-title="Оренбургская область"
+data-code="RU-ORE"
+
+data-title="Саратовская область"
+data-code="RU-SAR"
+
+data-title="Волгоградская область"
+data-code="RU-VGG"
+
+data-title="Воронежская область"
+data-code="RU-VOR"
+
+data-title="Смоленская область"
+data-code="RU-SMO"
+
+data-title="Тверская область"
+data-code="RU-TVE"
+
+data-title="Пермский край"
+data-code="RU-PER"
+
+data-title="Ханты-Мансийский АО - Югра"
+data-code="RU-KHM"
+
+data-title="Томская область"
+data-code="RU-TOM"
+
+data-title="Иркутская область"
+data-code="RU-IRK"
+
+data-title="Херсонская область"
+data-code="RU-HR"
+
+data-title="Запорожская область"
+data-code="RU-ZP"
+
+data-title="Донецкая Народная Республика"
+data-code="RU-DON"
+
+data-title="Луганская Народная Республика"
+data-code="RU-LUG"
