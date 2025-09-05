@@ -309,7 +309,6 @@
    top: 0;
 }
 
-
 /* .info-card__gerb-flag img {
    border: 2px solid #000;
 } */
@@ -346,4 +345,33 @@
    box-sizing: border-box;
    background: #000;
    color: #fff;
+}
+
+@media (max-width: 600px) {
+   .info-card__gerb {
+      min-height: 80px;
+      min-width: 80px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+   }
+
+   .info-map.flag,
+   .info-map,
+   .info-card {
+      padding-right: 0;
+      padding-left: 0;
+   }
+
+   .info-card {
+      min-height: 144px;
+   }
+
+   .line-votes {
+      width: 200px;
+   }
+
+   .info-card__text h5 {
+      font-size: 22px;
+   }
 }
