@@ -196,9 +196,14 @@
 }
 
 /* .info-card */
+.info-card {
+   box-sizing: border-box;
+   min-height: 156px;
+   background: #f3f3f3;
+}
 .hide {
-   /* opacity: 0 !important; */
-   display: none;
+   opacity: 0 !important;
+   /* display: none; */
 }
 
 /* инфа */
@@ -305,9 +310,9 @@
 }
 
 
-.info-card__gerb-flag img {
+/* .info-card__gerb-flag img {
    border: 2px solid #000;
-}
+} */
 
 /* СПИСОК ПОД  */
 .list-disctricts {

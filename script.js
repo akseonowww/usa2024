@@ -49,10 +49,10 @@ document.addEventListener("DOMContentLoaded", function () {
    }
 
    // Обновляем таймер каждую секунду
-   const countdownInterval = setInterval(updateCountdown, 1000);
+   // const countdownInterval = setInterval(updateCountdown, 1000);
 
    // Инициализируем таймер при загрузке
-   updateCountdown();
+   // updateCountdown();
 
    // данные
    //    votesBase = {
